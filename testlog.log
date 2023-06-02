@@ -1,0 +1,154 @@
+Settled in the house
+I bought a car Volvo
+Driving...
+I got a job Java developer with salary 50
+==========Today the 1 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 100
+satiety: 50
+happiness: 50
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 62
+durability: 149
+Lets chill
+==========Today the 2 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 100
+satiety: 50
+happiness: 60
+                    Home info                     
+
+
+mess: 5
+food: 0
+                  Volvo car info                  
+
+
+fuel: 62
+durability: 149
+I need to clean
+==========Today the 3 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 100
+satiety: 50
+happiness: 55
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 62
+durability: 149
+Time for sweets!
+Driving...
+I bought sweets!!!
+==========Today the 4 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 85
+satiety: 52
+happiness: 65
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 54
+durability: 148
+Start working
+Driving...
+==========Today the 5 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 135
+satiety: 48
+happiness: 55
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 46
+durability: 147
+I need to clean
+==========Today the 6 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 135
+satiety: 48
+happiness: 50
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 46
+durability: 147
+Time for sweets!
+Driving...
+I bought sweets!!!
+==========Today the 7 day of Nick's life==========
+
+
+                   Nick's info                    
+
+
+money: 120
+satiety: 50
+happiness: 60
+                    Home info                     
+
+
+mess: 0
+food: 0
+                  Volvo car info                  
+
+
+fuel: 38
+durability: 146
+Lets chill
+x = <bound method Human.live_a_day of <__main__.Human object at 0x0000019EA6A94100>>
+You are using Python3
+This method will be deprecated in the next update!
+Error!
+FATAL ERROR!
